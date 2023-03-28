@@ -1,8 +1,8 @@
-#Poder Judicial Neuquén
+Poder Judicial Neuquén
 
 App para el concurso externo Expediente Nº 0578-22
 
-## Running the application
+Ejercicio de App en java con Hilla + React
 
 The project is a standard Maven project. To run it from the command line,
 type `mvnw` (Windows), or `./mvnw` (Mac & Linux), then open
