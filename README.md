@@ -1,7 +1,6 @@
-# Custom project from Hilla
+#Poder Judicial Neuquén
 
-This project can be used as a starting point to create your own Hilla application with Spring Boot.
-It contains all the necessary configuration and some placeholder files to get you started.
+App para el concurso externo Expediente Nº 0578-22
 
 ## Running the application
 
