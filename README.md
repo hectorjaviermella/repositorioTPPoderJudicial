@@ -4,23 +4,25 @@ App para el concurso externo Expediente Nº 0578-22
 
 Ejercicio de App en java con Hilla + React
 
-The project is a standard Maven project. To run it from the command line,
-type `mvnw` (Windows), or `./mvnw` (Mac & Linux), then open
-http://localhost:8080 in your browser.
+Una app aplicación de ejercicio desarrollada en Java, utilizando el framework Hilla con Spring Boot y React. 
 
-You can also import the project to your IDE of choice as you would with any
-Maven project.
+Para comenzar
 
-## Deploying to Production
+Puedes clonar este proyecto desde GitHub usando el siguiente comando:
 
-To create a production build, call `mvnw clean package -Pproduction` (Windows),
-or `./mvnw clean package -Pproduction` (Mac & Linux).
-This will build a JAR file with all the dependencies and front-end resources,
-ready to be deployed. The file can be found in the `target` folder after the build completes.
+git clone https://github.com/hectorjaviermella/repositorioTPPoderJudicial
 
-Once the JAR file is built, you can run it using
-`java -jar target/myapp-1.0-SNAPSHOT.jar` (NOTE, replace
-`myapp-1.0-SNAPSHOT.jar` with the name of your jar).
+
+Correr la aplicacion
+
+El proyecto es un proyecto Maven. Para ejecutarlo desde la línea de comandos, tipear mvnw (Windows), o ./mvnw (Mac & Linux), y luego abrir http://localhost:8080 en el navegador. Esto requiere tener Maven instalado.
+
+
+Deploying a Producción
+
+Para crear una compilación de producción, ejecutar mvnw clean package -Pproduction (Windows), o ./mvnw clean package -Pproduction (Mac & Linux). Esto creará un archivo JAR con todas las dependencias y recursos front-end, listo para ser desplegado. El archivo se puede encontrar en la carpeta target después de que se complete la compilación. Una vez que se construye el archivo JAR, se puede correr usando java -jar tppj-hilla-1.0-SNAPSHOT.jar (el mismo se adjunta por email).
+
+
 
 ## Project structure
 
