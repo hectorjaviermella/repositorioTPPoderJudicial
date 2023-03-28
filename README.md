@@ -1,19 +1,19 @@
-Poder Judicial Neuquén
+#Poder Judicial Neuquén
 
 App para el concurso externo Expediente Nº 0578-22
 
-Ejercicio de App en java con Hilla + React
+#Ejercicio de App en java con Hilla + React
 
 Una app aplicación de ejercicio desarrollada en Java, utilizando el framework Hilla con Spring Boot y React. 
 
-Para comenzar
+#Para comenzar
 
 Puedes clonar este proyecto desde GitHub usando el siguiente comando:
 
 git clone https://github.com/hectorjaviermella/repositorioTPPoderJudicial
 
 
-Correr la aplicacion
+#Correr la aplicacion
 
 El proyecto es un proyecto Maven. Para ejecutarlo desde la línea de comandos, tipear mvnw (Windows), o ./mvnw (Mac & Linux), y luego abrir http://localhost:8080 en el navegador. Esto requiere tener Maven instalado.
 
