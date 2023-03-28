@@ -32,7 +32,7 @@ Dependencia: Permite crear, modificar y eliminar dependencias.
 
 En ambos casos, se muestran datos de edificios y dependencias ya cargados, se utilizó una base de datos en memoria.
 
-Estructura del Proyecto
+##Estructura del Proyecto
 
 
 
