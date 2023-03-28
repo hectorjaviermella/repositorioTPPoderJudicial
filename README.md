@@ -36,7 +36,7 @@ En ambos casos, se muestran datos de edificios y dependencias ya cargados, se ut
 
 
 
-## Project structure
+## Estructura del Proyecto
 
 <table style="width:100%; text-align: left;">
   <tr><th>Directory</th><th>Description</th></tr>
