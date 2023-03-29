@@ -55,5 +55,7 @@ source directory, contains the server-side Java views</td></tr>
 ## Enlaces utiles
 
 -Leer la documentacion en hilla.dev/docs.
+
 -Responder preguntas Stack Overflow o unite a Discord channel.
+
 -Informar problemas, crear solicitudes de incorporación de cambios en GitHub.
