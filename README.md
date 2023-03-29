@@ -9,9 +9,13 @@ Una app aplicación de ejercicio desarrollada en Java, utilizando el framework H
 
 ## Para comenzar
 
-Puedes clonar este proyecto desde GitHub usando el siguiente comando:
+Se puede clonar este proyecto desde GitHub usando el siguiente comando:
 
 git clone https://github.com/hectorjaviermella/repositorioTPPoderJudicial
+
+Se puede crear un proyecto de Hilla:
+
+npx @hilla/cli init --react TPPJ-HILLA
 
 ## Correr la aplicacion
 
