@@ -4,7 +4,7 @@ App para el concurso externo Expediente Nº 0578-22  (2023)
 
 ## Ejercicio de App en java con Hilla + React
 
-Una app aplicación de ejercicio desarrollada en Java, utilizando el framework Hilla con Spring Boot y React. Se utiliza una base de datos precargada.
+Una app aplicación de ejercicio desarrollada en Java, utilizando el framework Hilla con Spring Boot y React. Se utiliza una base de datos precargada. Ademas de Formix: https://formik.org/
 
 
 ## Para comenzar a correr la aplicacion
