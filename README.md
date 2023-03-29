@@ -52,8 +52,8 @@ source directory, contains the server-side Java views</td></tr>
   <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;<code>Application.java</code></td><td>Server entry-point</td></tr>
 </table>
 
-## Useful links
+## Enlaces utiles
 
-- Read the documentation at [hilla.dev/docs](https://hilla.dev/docs/).
-- Ask questions on [Stack Overflow](https://stackoverflow.com/questions/tagged/hilla) or join our [Discord channel](https://discord.gg/MYFq5RTbBn).
-- Report issues, create pull requests in [GitHub](https://github.com/vaadin/hilla).
+Leer la documentacion en hilla.dev/docs.
+Responder preguntas Stack Overflow o unite a Discord channel.
+Informar problemas, crear solicitudes de incorporación de cambios en GitHub.
