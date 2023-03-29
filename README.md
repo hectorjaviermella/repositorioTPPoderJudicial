@@ -1,13 +1,13 @@
 ## App para Poder Judicial Neuquén
 
-App para el concurso externo Expediente Nº 0578-22
+App para el concurso externo Expediente Nº 0578-22  (2023)
 
 ## Ejercicio de App en java con Hilla + React
 
-Una app aplicación de ejercicio desarrollada en Java, utilizando el framework Hilla con Spring Boot y React. 
+Una app aplicación de ejercicio desarrollada en Java, utilizando el framework Hilla con Spring Boot y React. Se utiliza una base de datos precargada.
 
 
-## Para comenzar
+## Para comenzar a correr la aplicacion
 
 Se puede clonar este proyecto desde GitHub usando el siguiente comando:
 
@@ -21,7 +21,7 @@ npx @hilla/cli init --react TPPJ-HILLA
 
 El proyecto es un proyecto Maven. Para ejecutarlo desde la línea de comandos, tipear mvnw (Windows), o ./mvnw (Mac & Linux), y luego abrir http://localhost:8080 en el navegador. Esto requiere tener Maven instalado.
 
-## Deploying a Producción
+## Paso a Producción
 
 Para crear una compilación de producción, ejecutar mvnw clean package -Pproduction (Windows), o ./mvnw clean package -Pproduction (Mac & Linux). Esto creará un archivo JAR con todas las dependencias y recursos front-end, listo para ser desplegado. El archivo se puede encontrar en la carpeta target después de que se complete la compilación. Una vez que se construye el archivo JAR, se puede correr usando java -jar tppj-hilla-1.0-SNAPSHOT.jar (el mismo se adjunta por email).
 
@@ -58,8 +58,8 @@ source directory, contains the server-side Java views</td></tr>
 
 ## Enlaces utiles
 
--Leer la documentacion en hilla.dev/docs.
+-Leer la documentacion en https://hilla.dev/docs/.
 
--Responder preguntas Stack Overflow o unite a Discord channel.
+-Responder preguntas Stack Overflow (https://stackoverflow.com/questions/tagged/hilla).
 
--Informar problemas, crear solicitudes de incorporación de cambios en GitHub.
+-Informar problemas, crear solicitudes de incorporación de cambios en GitHub (https://github.com/vaadin/hilla).
