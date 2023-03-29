@@ -1,36 +1,34 @@
-## Poder Judicial Neuquén
+## App para Poder Judicial Neuquén
 
 App para el concurso externo Expediente Nº 0578-22
 
-#Ejercicio de App en java con Hilla + React
+## Ejercicio de App en java con Hilla + React
 
 Una app aplicación de ejercicio desarrollada en Java, utilizando el framework Hilla con Spring Boot y React. 
 
-#Para comenzar
+
+## Para comenzar
 
 Puedes clonar este proyecto desde GitHub usando el siguiente comando:
 
 git clone https://github.com/hectorjaviermella/repositorioTPPoderJudicial
 
-
-#Correr la aplicacion
+## Correr la aplicacion
 
 El proyecto es un proyecto Maven. Para ejecutarlo desde la línea de comandos, tipear mvnw (Windows), o ./mvnw (Mac & Linux), y luego abrir http://localhost:8080 en el navegador. Esto requiere tener Maven instalado.
 
-
-Deploying a Producción
+## Deploying a Producción
 
 Para crear una compilación de producción, ejecutar mvnw clean package -Pproduction (Windows), o ./mvnw clean package -Pproduction (Mac & Linux). Esto creará un archivo JAR con todas las dependencias y recursos front-end, listo para ser desplegado. El archivo se puede encontrar en la carpeta target después de que se complete la compilación. Una vez que se construye el archivo JAR, se puede correr usando java -jar tppj-hilla-1.0-SNAPSHOT.jar (el mismo se adjunta por email).
 
 
 ## Información de la App
 
-
 Edificio: Permite crear, modificar y eliminar edificios.
 
 Dependencia: Permite crear, modificar y eliminar dependencias.
 
-En ambos casos, se muestran datos de edificios y dependencias ya cargados, se utilizó una base de datos en memoria.
+Se utilizan datos en memoria en su carga.
 
 
 ## Estructura del Proyecto
